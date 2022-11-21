@@ -1,0 +1,29 @@
+{
+  "name": "aaytseriesfolder",
+  "version": "1.0.0",
+  "description": "Yet another youtube tutorial",
+  "main": "src/index.mjs",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.mjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tomato6966/discord.js-tutorial-series.git"
+  },
+  "keywords": [
+    "Discord",
+    "Bot"
+  ],
+  "author": "Tomato6966",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Tomato6966/discord.js-tutorial-series/issues"
+  },
+  "homepage": "https://github.com/Tomato6966/discord.js-tutorial-series#readme",
+  "dependencies": {
+    "discord.js": "^14.6.0",
+    "dotenv": "^16.0.3"
+  }
+}
